@@ -18,26 +18,7 @@ I also have experience with backend development, real-time communication, relati
 - **Databases:** MySQL, SQL, Relational Modeling, Transactions, Indexing, Data Integrity.
 - **Infrastructure:** Apache, Linux Servers, Reverse Proxy, Cloudflare, Deployment, Networking.
 - **Tools:** Git, CMake, GCC/G++, Visual Studio, VS Code.
-
 ---
-
-### 🔧 Main Areas of Interest
-
-- Low-Level Software Development
-- Embedded Systems
-- Microcontroller Development
-- RTOS
-- Firmware Engineering
-- Reverse Engineering
-- Systems Programming
-- Kernel Development
-- PCB Design
-- Hardware Modding
-- Linux
-- Databases & Backend Systems
-
----
-
 ### 🌐 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wenderson%20Dias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendersondias)
